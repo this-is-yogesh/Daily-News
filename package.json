@@ -1,6 +1,6 @@
 {
   "name": "newsapp",
-  "homepage" : "https://this-is-yogesh.github.io/Daily-News",
+  "homepage" : "https://this-is-yogesh.github.io/daily-news",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
