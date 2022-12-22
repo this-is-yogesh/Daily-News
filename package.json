@@ -2,7 +2,7 @@
   "name": "newsapp",
   "homepage" : "https://this-is-yogesh.github.io/Daily-News",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "dependencies": {
     "@ramonak/react-progress-bar": "^5.0.3",
     "@testing-library/jest-dom": "^5.16.5",
