@@ -25,7 +25,7 @@ const App = ()=> {
       />
      <Navbar/>
      <Routes>
-     <Route exact path="/"  element={<News bar={setProgress} key="general" pagesize={13} country="in" category="general"/> }></Route>
+     <Route exact path="/Daily-News"  element={<News bar={setProgress} key="general" pagesize={13} country="in" category="general"/> }></Route>
      <Route exact path="/sports"  element={<News bar={setProgress} key="sports" pagesize={13} country="in" category="sports"/> }></Route>
      <Route exact path="/business"  element={<News bar={setProgress} key="business" pagesize={13} country="in" category="business"/> }></Route>
      <Route exact path="/entertainment"  element={<News bar={setProgress} key="entertainment"pagesize={13} country="in" category="entertainment"/> }></Route>
